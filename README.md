@@ -33,5 +33,9 @@
    npm install
 
 ### Usage
-```bash
-node index.js
+   ```bash
+   node index.js
+
+### Acknowledgements
+- inspired by blockchain technology concepts
+- Used the publci Bcrypt library for encryption 
