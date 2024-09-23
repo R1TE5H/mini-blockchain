@@ -33,9 +33,10 @@
    npm install
 
 ### Usage
+1. Start the application:
    ```bash
    node index.js
 
-### Acknowledgements
+Acknowledgements
 - inspired by blockchain technology concepts
 - Used the publci Bcrypt library for encryption 
