@@ -38,5 +38,5 @@
    node index.js
 
 Acknowledgements
-- inspired by blockchain technology concepts
-- Used the publci Bcrypt library for encryption 
+- Inspired by blockchain technology concepts
+- Used the public Bcrypt library for encryption 
